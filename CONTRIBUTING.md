@@ -18,6 +18,7 @@
 - `feat: add expense form`
 - `fix: reject negative amount`
 - `docs: add installation guide`
+- `test: cover savings calculation`
 
 ## Плохие примеры
 
